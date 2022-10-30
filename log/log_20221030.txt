@@ -1,0 +1,670 @@
+2022-10-30 20:05:13 �򿪴���/open serial:COM4,9600
+2022-10-30 20:05:19 ɨ��/scan
+2022-10-30 20:05:19 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030200519000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 20:05:20 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 20:05:20 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030200521,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 20:05:22 ɨ��/scan
+2022-10-30 20:05:22 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030200522000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 20:05:22 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 20:05:22 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030200523,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 20:05:22 Save to: motorsrsmt0001_20221030.txt
+2022-10-30 20:05:24 motorsrsmt0001�������/process finished
+2022-10-30 20:07:15 �򿪴���/open serial:COM4,9600
+2022-10-30 20:07:21 ɨ��/scan
+2022-10-30 20:07:21 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030200721000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 20:07:21 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 20:07:21 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030200722,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 20:07:23 ɨ��/scan
+2022-10-30 20:07:23 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030200723000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 20:07:23 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030200724,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 20:07:33 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 20:07:35 motorsrsmt0001�������/process finished
+2022-10-30 20:08:12 �򿪴���/open serial:COM4,9600
+2022-10-30 20:08:17 ɨ��/scan
+2022-10-30 20:08:17 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030200817000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 20:08:17 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 20:08:17 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030200818,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 20:08:18 ɨ��/scan
+2022-10-30 20:08:18 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030200818000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 20:08:18 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 20:08:18 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030200819,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 20:08:23 Save to: motorsrsmt0001_20221030.txt
+2022-10-30 20:08:23 motorsrsmt0001�������/process finished
+2022-10-30 21:02:23 �򿪴���/open serial:COM4,9600
+2022-10-30 21:02:29 ɨ��/scan
+2022-10-30 21:02:29 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030210229000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:02:29 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:02:29 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030210230,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:02:31 ɨ��/scan
+2022-10-30 21:02:31 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030210231000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:02:31 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:02:31 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030210232,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:03:51 �򿪴���/open serial:COM4,9600
+2022-10-30 21:03:55 ɨ��/scan
+2022-10-30 21:03:55 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030210355000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:03:55 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:03:55 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030210356,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:03:57 ɨ��/scan
+2022-10-30 21:03:57 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030210357000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:03:57 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030210358,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:04:04 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:04:14 Save to: motorsrsmt0001_20221030210350.txt
+2022-10-30 21:04:24 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:04:34 Save to: motorsrsmt0001_20221030210350.txt
+2022-10-30 21:04:44 Save to: motorsrsmt0001_20221030210350.txt
+2022-10-30 21:04:54 Save to: motorsrsmt0001_20221030210350.txt
+2022-10-30 21:04:58 motorsrsmt0001�������/process finished
+2022-10-30 21:05:12 ɨ��/scan
+2022-10-30 21:05:12 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030210512000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:05:12 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:05:12 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030210513,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:05:14 Save to: motorsrsmt0001_20221030210350.txt
+2022-10-30 21:05:22 motorsrsmt0001�������/process finished
+2022-10-30 21:06:21 �򿪴���/open serial:COM4,9600
+2022-10-30 21:06:24 ɨ��/scan
+2022-10-30 21:06:24 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030210624000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:06:24 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:06:24 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030210625,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:06:27 ɨ��/scan
+2022-10-30 21:06:27 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030210627000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:06:27 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:06:27 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030210628,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:06:34 Save to: motorsrsmt0001_20221030210620.txt
+2022-10-30 21:06:35 motorsrsmt0001�������/process finished
+2022-10-30 21:13:38 打开串口/open serial:COM4,9600
+2022-10-30 21:13:42 扫码/scan
+2022-10-30 21:13:42 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030211342000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:13:42 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:13:42 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030211343,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:13:43 扫码/scan
+2022-10-30 21:13:43 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030211343000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:13:43 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:13:43 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030211344,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:13:44 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:13:46 motorsrsmt0001操作完成/process finished
+2022-10-30 21:17:19 打开串口/open serial:COM4,9600
+2022-10-30 21:17:24 扫码/scan
+2022-10-30 21:17:24 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030211724000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:17:24 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:17:24 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030211725,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:17:26 扫码/scan
+2022-10-30 21:17:26 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030211726000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:17:26 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:17:26 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030211727,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:17:34 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:17:34 Save to: motorsrsmt0001_20221030211719.txt
+2022-10-30 21:17:41 motorsrsmt0001操作完成/process finished
+2022-10-30 21:18:40 扫码/scan
+2022-10-30 21:18:40 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030211840000,<UnitCheckin tokens="2" uid_in="C" />
+2022-10-30 21:18:40 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:18:40 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030211841,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:18:40 扫码/scan
+2022-10-30 21:18:40 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030211840000,<UnitCheckin tokens="2" uid_in="" />
+2022-10-30 21:18:40 From MES:b'\x00\x00\x00\x8d'
+2022-10-30 21:18:40 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030211841,ERROR,<Error tokens="4" ackrequired="true" text="GHP: micc_CheckUnitIdOrCarrier" failurecode="1" />\x03'
+2022-10-30 21:18:43 扫码/scan
+2022-10-30 21:18:43 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030211843000,<UnitCheckin tokens="2" uid_in="V" />
+2022-10-30 21:18:43 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:18:43 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030211844,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:22:05 打开串口/open serial:COM4,9600
+2022-10-30 21:22:09 扫码/scan
+2022-10-30 21:22:09 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030212209000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:22:09 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:22:09 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030212210,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:22:12 扫码/scan
+2022-10-30 21:22:12 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030212212000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:22:12 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:22:12 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030212213,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:22:14 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:22:14 Save to: motorsrsmt0001_20221030212205.txt
+2022-10-30 21:22:15 motorsrsmt0001操作完成/process finished
+2022-10-30 21:34:31 打开串口/open serial:COM4,9600
+2022-10-30 21:34:42 扫码/scan
+2022-10-30 21:34:42 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030213442000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:34:43 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:34:43 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030213444,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:34:44 扫码/scan
+2022-10-30 21:34:44 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030213444000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:34:44 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:34:44 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030213445,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:34:54 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:34:54 Save to: motorsrsmt0001_20221030213431.txt
+2022-10-30 21:34:58 motorsrsmt0001操作完成/process finished
+2022-10-30 21:36:22 打开串口/open serial:COM4,9600
+2022-10-30 21:36:26 扫码/scan
+2022-10-30 21:36:26 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030213626000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:36:26 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:36:26 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030213627,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:36:27 扫码/scan
+2022-10-30 21:36:27 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030213627000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:36:27 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:36:27 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030213628,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:36:34 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:36:34 Save to: motorsrsmt0001_20221030213622.txt
+2022-10-30 21:36:34 TO MES:UNIT_RESULT,EMR3MSRS,1,20221030213634000,<UnitResult tokens="4" uid_in="motorsrsmt0001" result="P" info="motorsrsmt0001_20221030213622.txt" />
+2022-10-30 21:36:34 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 21:36:44 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:36:44 Save to: motorsrsmt0001_20221030213622.txt
+2022-10-30 21:36:44 TO MES:UNIT_RESULT,EMR3MSRS,2,20221030213644000,<UnitResult tokens="4" uid_in="motorsrsmt0001" result="P" info="motorsrsmt0001_20221030213622.txt" />
+2022-10-30 21:36:44 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 21:36:50 motorsrsmt0001操作完成/process finished
+2022-10-30 21:39:44 打开串口/open serial:COM4,9600
+2022-10-30 21:39:48 扫码/scan
+2022-10-30 21:39:48 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030213948000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:39:48 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:39:48 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030213949,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:39:50 扫码/scan
+2022-10-30 21:39:50 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030213950000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:39:50 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:39:50 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030213951,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:39:54 TO MES:UNIT_RESULT,EMR3MSRS,1,20221030213954000,<UnitResult tokens="4" uid_in="motorsrsmt0001" result="P" info="motorsrsmt0001_20221030213944.txt" />
+2022-10-30 21:39:54 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 21:41:05 扫码/scan
+2022-10-30 21:41:05 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030214105000,<UnitCheckin tokens="2" uid_in="" />
+2022-10-30 21:41:06 From MES:b'\x00\x00\x00\x8d'
+2022-10-30 21:41:06 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030214107,ERROR,<Error tokens="4" ackrequired="true" text="GHP: micc_CheckUnitIdOrCarrier" failurecode="1" />\x03'
+2022-10-30 21:41:23 打开串口/open serial:COM4,9600
+2022-10-30 21:41:26 扫码/scan
+2022-10-30 21:41:26 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030214126000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:41:26 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:41:26 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030214127,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:41:28 扫码/scan
+2022-10-30 21:41:28 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030214128000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:41:28 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:41:28 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030214129,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:41:34 TO MES:UNIT_RESULT,EMR3MSRS,1,20221030214134000,<UnitResult tokens="4" uid_in="motorsrsmt0001" result="P" info="motorsrsmt0001_20221030214123.txt" />
+2022-10-30 21:41:34 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 21:41:34 From MES:b'\x02UNIT_RESULT,EMR3MSRS,1,20221030214135,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 21:42:45 扫码/scan
+2022-10-30 21:42:45 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030214245000,<UnitCheckin tokens="2" uid_in="'C" />
+2022-10-30 21:42:45 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:42:45 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030214246,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:46:16 打开串口/open serial:COM4,9600
+2022-10-30 21:46:21 扫码/scan
+2022-10-30 21:46:21 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030214621000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:46:21 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:46:21 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030214622,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:46:22 扫码/scan
+2022-10-30 21:46:22 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030214622000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:46:23 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:46:23 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030214624,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:46:24 TO MES:UNIT_RESULT,EMR3MSRS,1,20221030214624000,<UnitResult tokens="4" uid_in="motorsrsmt0001" result="P" info="\\10.192.97.84\F521_MES_record\20221030\motorsrsmt0001_20221030214616.txt" />
+2022-10-30 21:46:24 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 21:46:24 From MES:b'\x02UNIT_RESULT,EMR3MSRS,1,20221030214625,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 21:48:05 打开串口/open serial:COM4,9600
+2022-10-30 21:48:08 扫码/scan
+2022-10-30 21:48:08 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030214808000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:48:08 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:48:08 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030214809,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:48:09 扫码/scan
+2022-10-30 21:48:09 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030214809000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:48:10 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:48:10 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030214811,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:48:14 TO MES:UNIT_RESULT,EMR3MSRS,1,20221030214814000,<UnitResult tokens="4" uid_in="motorsrsmt0001" result="P" info="\\10.192.97.84\F521_MES_record\20221030\motorsrsmt0001_20221030214805.txt" />
+2022-10-30 21:48:14 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 21:48:14 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:48:14 From MES:b'\x02UNIT_RESULT,EMR3MSRS,1,20221030214815,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 21:48:14 Save to: motorsrsmt0001_20221030214805.txt
+2022-10-30 21:48:24 TO MES:UNIT_RESULT,EMR3MSRS,2,20221030214824000,<UnitResult tokens="4" uid_in="motorsrsmt0001" result="P" info="\\10.192.97.84\F521_MES_record\20221030\motorsrsmt0001_20221030214805.txt" />
+2022-10-30 21:48:24 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 21:48:24 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:48:24 From MES:b'\x02UNIT_RESULT,EMR3MSRS,2,20221030214825,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 21:48:24 Save to: motorsrsmt0001_20221030214805.txt
+2022-10-30 21:48:24 motorsrsmt0001操作完成/process finished
+2022-10-30 21:51:32 打开串口/open serial:COM4,9600
+2022-10-30 21:51:37 扫码/scan
+2022-10-30 21:51:37 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030215137000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:51:37 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:51:37 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030215138,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:51:40 扫码/scan
+2022-10-30 21:51:40 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030215140000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:51:40 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:51:40 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030215141,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:51:44 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:51:44 Save to: motorsrsmt0001_20221030215132.txt
+2022-10-30 21:51:54 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:51:54 Save to: motorsrsmt0001_20221030215132.txt
+2022-10-30 21:52:20 打开串口/open serial:COM4,9600
+2022-10-30 21:52:24 扫码/scan
+2022-10-30 21:52:24 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030215224000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:52:24 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:52:24 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030215225,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:52:25 扫码/scan
+2022-10-30 21:52:25 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030215225000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:52:25 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:52:25 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030215226,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:52:34 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:52:34 Save to: motorsrsmt0001_20221030215219.txt
+2022-10-30 21:52:40 motorsrsmt0001手动下线/manual fail
+2022-10-30 21:53:50 打开串口/open serial:COM4,9600
+2022-10-30 21:53:53 扫码/scan
+2022-10-30 21:53:53 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030215353000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:53:53 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:53:53 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030215354,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:53:55 扫码/scan
+2022-10-30 21:53:55 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030215355000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:53:55 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:53:55 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030215356,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:54:04 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:54:04 Save to: motorsrsmt0001_20221030215350.txt
+2022-10-30 21:54:07 motorsrsmt0001操作完成/process finished
+2022-10-30 21:57:35 打开串口/open serial:COM4,9600
+2022-10-30 21:57:37 扫码/scan
+2022-10-30 21:57:37 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030215737000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:57:38 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:57:38 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030215739,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:57:39 扫码/scan
+2022-10-30 21:57:39 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030215739000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:57:39 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:57:39 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030215740,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:57:43 扫码/scan
+2022-10-30 21:57:43 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030215743000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:57:43 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:57:43 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030215744,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:57:44 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:57:44 Save to: motorsrsmt0001_20221030215735.txt
+2022-10-30 21:57:54 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:57:54 Save to: motorsrsmt0001_20221030215735.txt
+2022-10-30 21:58:29 打开串口/open serial:COM4,9600
+2022-10-30 21:58:32 扫码/scan
+2022-10-30 21:58:32 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030215832000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 21:58:32 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 21:58:32 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030215833,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 21:58:34 扫码/scan
+2022-10-30 21:58:34 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030215834000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 21:58:34 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 21:58:34 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030215835,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 21:58:44 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:58:44 Save to: motorsrsmt0001_20221030215829.txt
+2022-10-30 21:58:54 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:58:54 Save to: motorsrsmt0001_20221030215829.txt
+2022-10-30 21:59:04 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:59:04 Save to: motorsrsmt0001_20221030215829.txt
+2022-10-30 21:59:14 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:59:14 Save to: motorsrsmt0001_20221030215829.txt
+2022-10-30 21:59:24 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:59:24 Save to: motorsrsmt0001_20221030215829.txt
+2022-10-30 21:59:34 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 21:59:34 Save to: motorsrsmt0001_20221030215829.txt
+2022-10-30 21:59:34 motorsrsmt0001手动下线/manual fail
+2022-10-30 21:59:59 打开串口/open serial:COM4,9600
+2022-10-30 22:00:03 扫码/scan
+2022-10-30 22:00:03 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030220003000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:00:03 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:00:03 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030220004,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:00:05 扫码/scan
+2022-10-30 22:00:05 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030220005000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:00:05 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:00:05 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030220006,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:00:14 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:00:14 Save to: motorsrsmt0001_20221030215959.txt
+2022-10-30 22:00:24 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:00:24 Save to: motorsrsmt0001_20221030215959.txt
+2022-10-30 22:00:34 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:00:34 Save to: motorsrsmt0001_20221030215959.txt
+2022-10-30 22:03:38 打开串口/open serial:COM4,9600
+2022-10-30 22:03:45 扫码/scan
+2022-10-30 22:03:45 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030220345000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:03:45 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:03:45 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030220346,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:03:47 扫码/scan
+2022-10-30 22:03:47 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030220347000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:03:47 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:03:47 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030220348,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:03:54 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:03:54 Save to: motorsrsmt0001_20221030220338.txt
+2022-10-30 22:06:30 打开串口/open serial:COM4,9600
+2022-10-30 22:06:33 扫码/scan
+2022-10-30 22:06:33 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030220633000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:06:33 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:06:33 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030220634,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:06:36 扫码/scan
+2022-10-30 22:06:36 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030220636000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:06:36 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:06:36 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030220637,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:06:44 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:06:44 Save to: motorsrsmt0001_20221030220630.txt
+2022-10-30 22:06:47 TO MES:UNIT_RESULT,EMR3MSRS,1,20221030220647000,<UnitResult tokens="4" uid_in="motorsrsmt0001" result="P" info="\\10.192.97.84\F521_MES_record\20221030\motorsrsmt0001_20221030220630.txt" />
+2022-10-30 22:06:47 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:06:47 From MES:b'\x02UNIT_RESULT,EMR3MSRS,1,20221030220648,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:06:54 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:06:54 Save to: motorsrsmt0001_20221030220630.txt
+2022-10-30 22:07:04 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:07:04 Save to: motorsrsmt0001_20221030220630.txt
+2022-10-30 22:07:14 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:07:14 Save to: motorsrsmt0001_20221030220630.txt
+2022-10-30 22:07:24 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:07:24 Save to: motorsrsmt0001_20221030220630.txt
+2022-10-30 22:07:34 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:07:34 Save to: motorsrsmt0001_20221030220630.txt
+2022-10-30 22:10:20 打开串口/open serial:COM4,9600
+2022-10-30 22:10:23 扫码/scan
+2022-10-30 22:10:23 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030221023000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:10:23 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:10:23 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030221024,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:10:26 扫码/scan
+2022-10-30 22:10:26 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030221026000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:10:26 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:10:26 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030221027,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:11:25 扫码/scan
+2022-10-30 22:11:25 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030221125000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:11:26 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:11:26 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030221127,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:11:57 打开串口/open serial:COM4,9600
+2022-10-30 22:12:00 扫码/scan
+2022-10-30 22:12:00 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030221200000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:12:00 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:12:00 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030221201,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:12:03 扫码/scan
+2022-10-30 22:12:03 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030221203000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:12:03 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:12:03 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030221204,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:12:04 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:12:04 Save to: motorsrsmt0001_20221030221157.txt
+2022-10-30 22:12:08 TO MES:UNIT_RESULT,EMR3MSRS,1,20221030221208000,<UnitResult tokens="4" uid_in="motorsrsmt0001" result="P" info="\\10.192.97.84\F521_MES_record\20221030\motorsrsmt0001_20221030221157.txt" />
+2022-10-30 22:12:08 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:12:08 motorsrsmt0001操作完成/process finished
+2022-10-30 22:12:08 From MES:b'\x02UNIT_RESULT,EMR3MSRS,1,20221030221209,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:12:21 扫码/scan
+2022-10-30 22:12:21 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030221221000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:12:21 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:12:21 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030221222,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:12:24 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:12:24 Save to: motorsrsmt0001_20221030221157.txt
+2022-10-30 22:12:26 TO MES:UNIT_RESULT,EMR3MSRS,2,20221030221226000,<UnitResult tokens="4" uid_in="motorsrsmt0001" result="F" info="\\10.192.97.84\F521_MES_record\20221030\motorsrsmt0001_20221030221157.txt" />
+2022-10-30 22:12:26 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:12:26 motorsrsmt0001手动下线/manual fail
+2022-10-30 22:12:26 From MES:b'\x02UNIT_RESULT,EMR3MSRS,2,20221030221227,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:14:53 打开串口/open serial:COM4,9600
+2022-10-30 22:14:57 扫码/scan
+2022-10-30 22:14:57 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030221457000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:14:57 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:14:57 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030221458,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:14:59 扫码/scan
+2022-10-30 22:14:59 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030221459000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:14:59 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:14:59 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030221500,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:15:04 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:15:04 Save to: MOTORSRSMT0001_20221030221452.txt
+2022-10-30 22:15:06 TO MES:UNIT_RESULT,EMR3MSRS,1,20221030221506000,<UnitResult tokens="4" uid_in="MOTORSRSMT0001" result="P" info="\\10.192.97.84\F521_MES_record\20221030\MOTORSRSMT0001_20221030221452.txt" />
+2022-10-30 22:15:06 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:15:06 MOTORSRSMT0001操作完成/process finished
+2022-10-30 22:15:06 From MES:b'\x02UNIT_RESULT,EMR3MSRS,1,20221030221507,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:15:17 扫码/scan
+2022-10-30 22:15:17 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030221517000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:15:17 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:15:17 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030221518,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:15:19 TO MES:UNIT_RESULT,EMR3MSRS,2,20221030221519000,<UnitResult tokens="4" uid_in="MOTORSRSMT0001" result="F" info="\\10.192.97.84\F521_MES_record\20221030\MOTORSRSMT0001_20221030221452.txt" />
+2022-10-30 22:15:19 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:15:19 From MES:b'\x02UNIT_RESULT,EMR3MSRS,2,20221030221520,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:15:24 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:15:24 Save to: MOTORSRSMT0001_20221030221452.txt
+2022-10-30 22:15:34 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:15:34 Save to: MOTORSRSMT0001_20221030221452.txt
+2022-10-30 22:15:44 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:15:44 Save to: MOTORSRSMT0001_20221030221452.txt
+2022-10-30 22:16:35 打开串口/open serial:COM4,9600
+2022-10-30 22:16:38 扫码/scan
+2022-10-30 22:16:38 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030221638000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:16:38 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:16:38 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030221639,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:16:39 扫码/scan
+2022-10-30 22:16:39 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030221639000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:16:39 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:16:39 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030221640,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:16:44 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:16:44 Save to: MOTORSRSMT0001_20221030221635.txt
+2022-10-30 22:16:54 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:16:54 Save to: MOTORSRSMT0001_20221030221635.txt
+2022-10-30 22:17:04 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:17:04 Save to: MOTORSRSMT0001_20221030221635.txt
+2022-10-30 22:18:12 打开串口/open serial:COM4,9600
+2022-10-30 22:18:15 扫码/scan
+2022-10-30 22:18:15 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030221815000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:18:15 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:18:15 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030221816,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:18:16 扫码/scan
+2022-10-30 22:18:16 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030221816000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:18:16 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:18:16 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030221817,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:18:24 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:18:24 Save to: MOTORSRSMT0001_20221030221812.txt
+2022-10-30 22:18:34 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:18:34 Save to: MOTORSRSMT0001_20221030221812.txt
+2022-10-30 22:20:10 打开串口/open serial:COM4,9600
+2022-10-30 22:20:14 扫码/scan
+2022-10-30 22:20:14 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030222014000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:20:14 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:20:14 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030222015,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:20:16 扫码/scan
+2022-10-30 22:20:16 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030222016000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:20:16 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:20:16 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030222017,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:20:24 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:20:24 Save to: MOTORSRSMT0001_20221030222010.txt
+2022-10-30 22:20:38 打开串口/open serial:COM4,9600
+2022-10-30 22:20:46 扫码/scan
+2022-10-30 22:20:46 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030222046000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:20:46 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:20:46 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030222047,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:20:47 扫码/scan
+2022-10-30 22:20:47 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030222047000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:20:47 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:20:47 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030222048,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:20:54 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:20:54 Save to: MOTORSRSMT0001_20221030222038.txt
+2022-10-30 22:20:55 TO MES:UNIT_RESULT,EMR3MSRS,1,20221030222055000,<UnitResult tokens="4" uid_in="MOTORSRSMT0001" result="P" info="\\10.192.97.84\F521_MES_record\20221030\MOTORSRSMT0001_20221030222038.txt" />
+2022-10-30 22:20:55 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:20:55 MOTORSRSMT0001操作完成/process finished
+2022-10-30 22:20:55 From MES:b'\x02UNIT_RESULT,EMR3MSRS,1,20221030222056,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:21:03 扫码/scan
+2022-10-30 22:21:03 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030222103000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:21:03 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:21:03 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030222104,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:21:04 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:21:04 Save to: MOTORSRSMT0001_20221030222038.txt
+2022-10-30 22:21:07 TO MES:UNIT_RESULT,EMR3MSRS,2,20221030222107000,<UnitResult tokens="4" uid_in="MOTORSRSMT0001" result="F" info="\\10.192.97.84\F521_MES_record\20221030\MOTORSRSMT0001_20221030222038.txt" />
+2022-10-30 22:21:07 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:21:07 MOTORSRSMT0001手动下线/manual fail
+2022-10-30 22:21:07 From MES:b'\x02UNIT_RESULT,EMR3MSRS,2,20221030222108,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:21:45 扫码/scan
+2022-10-30 22:21:45 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030222145000,<UnitCheckin tokens="2" uid_in="]" />
+2022-10-30 22:21:45 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:21:45 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030222146,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:21:45 扫码/scan
+2022-10-30 22:21:45 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030222145000,<UnitCheckin tokens="2" uid_in="" />
+2022-10-30 22:21:45 From MES:b'\x00\x00\x00\x8d'
+2022-10-30 22:21:45 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030222146,ERROR,<Error tokens="4" ackrequired="true" text="GHP: micc_CheckUnitIdOrCarrier" failurecode="1" />\x03'
+2022-10-30 22:22:34 扫码/scan
+2022-10-30 22:22:34 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030222234000,<UnitCheckin tokens="2" uid_in="[SCVSCERIAL_PORTCV'SERCOM4C" />
+2022-10-30 22:22:35 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:22:35 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030222236,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:23:22 扫码/scan
+2022-10-30 22:23:36 扫码/scan
+2022-10-30 22:24:20 扫码/scan
+2022-10-30 22:24:20 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030222420000,<UnitCheckin tokens="2" uid_in="SSE" />
+2022-10-30 22:24:20 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:24:20 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030222421,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:25:42 打开串口/open serial:COM4,9600
+2022-10-30 22:27:19 打开串口/open serial:COM4,9600
+2022-10-30 22:27:24 扫码/scan
+2022-10-30 22:27:24 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030222724000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:27:24 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:27:24 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030222725,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:27:26 扫码/scan
+2022-10-30 22:27:26 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030222726000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:27:26 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:27:26 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030222727,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:27:35 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:27:35 Save to: MOTORSRSMT0001_20221030222719.txt
+2022-10-30 22:27:37 TO MES:UNIT_RESULT,EMR3MSRS,1,20221030222737000,<UnitResult tokens="4" uid_in="MOTORSRSMT0001" result="P" info="\\10.192.97.84\F521_MES_record\]20221030\MOTORSRSMT0001_20221030222719.txt" />
+2022-10-30 22:27:37 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:27:37 MOTORSRSMT0001操作完成/process finished
+2022-10-30 22:27:37 From MES:b'\x02UNIT_RESULT,EMR3MSRS,1,20221030222738,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:27:56 扫码/scan
+2022-10-30 22:27:56 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030222756000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:27:56 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:27:56 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030222757,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:28:04 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:28:04 Save to: MOTORSRSMT0001_20221030222719.txt
+2022-10-30 22:28:09 TO MES:UNIT_RESULT,EMR3MSRS,2,20221030222809000,<UnitResult tokens="4" uid_in="MOTORSRSMT0001" result="F" info="\\10.192.97.84\F521_MES_record\]20221030\MOTORSRSMT0001_20221030222719.txt" />
+2022-10-30 22:28:09 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:28:09 MOTORSRSMT0001手动下线/manual fail
+2022-10-30 22:28:09 From MES:b'\x02UNIT_RESULT,EMR3MSRS,2,20221030222810,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:29:30 打开串口/open serial:COM4,9600
+2022-10-30 22:29:34 扫码/scan
+2022-10-30 22:29:34 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030222934000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:29:34 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:29:34 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030222935,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:29:35 扫码/scan
+2022-10-30 22:29:35 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030222935000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:29:36 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:29:36 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030222937,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:29:44 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:29:44 Save to: MOTORSRSMT0001_20221030222930.txt
+2022-10-30 22:29:46 TO MES:UNIT_RESULT,EMR3MSRS,1,20221030222946000,<UnitResult tokens="4" uid_in="MOTORSRSMT0001" result="P" info="test" />
+2022-10-30 22:29:46 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:29:46 MOTORSRSMT0001操作完成/process finished
+2022-10-30 22:29:46 From MES:b'\x02UNIT_RESULT,EMR3MSRS,1,20221030222947,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:30:59 扫码/scan
+2022-10-30 22:30:59 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030223059000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:30:59 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:30:59 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030223100,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:31:05 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:31:05 Save to: MOTORSRSMT0001_20221030222930.txt
+2022-10-30 22:31:06 TO MES:UNIT_RESULT,EMR3MSRS,2,20221030223106000,<UnitResult tokens="4" uid_in="MOTORSRSMT0001" result="P" info="test" />
+2022-10-30 22:31:06 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:31:06 MOTORSRSMT0001操作完成/process finished
+2022-10-30 22:31:06 From MES:b'\x02UNIT_RESULT,EMR3MSRS,2,20221030223107,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:32:18 扫码/scan
+2022-10-30 22:32:18 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030223218000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:32:18 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:32:18 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030223219,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:32:25 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:32:25 Save to: MOTORSRSMT0001_20221030222930.txt
+2022-10-30 22:32:26 TO MES:UNIT_RESULT,EMR3MSRS,3,20221030223226000,<UnitResult tokens="4" uid_in="MOTORSRSMT0001" result="P" info="test" />
+2022-10-30 22:32:26 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:32:26 MOTORSRSMT0001操作完成/process finished
+2022-10-30 22:32:26 From MES:b'\x02UNIT_RESULT,EMR3MSRS,3,20221030223227,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:33:49 扫码/scan
+2022-10-30 22:33:49 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030223349000,<UnitCheckin tokens="2" uid_in="TEXTJIJIAXIAHUANGKUAIHUAKUAI" />
+2022-10-30 22:33:49 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:33:49 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030223350,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:34:08 扫码/scan
+2022-10-30 22:34:08 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030223408000,<UnitCheckin tokens="2" uid_in="GUNDONGTIAOXIAGUNDONGTIAO" />
+2022-10-30 22:34:09 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:34:09 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030223410,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:36:16 打开串口/open serial:COM4,9600
+2022-10-30 22:36:39 打开串口/open serial:COM4,9600
+2022-10-30 22:37:05 打开串口/open serial:COM4,9600
+2022-10-30 22:37:31 打开串口/open serial:COM4,9600
+2022-10-30 22:37:38 扫码/scan
+2022-10-30 22:37:38 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030223738000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:37:38 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:37:38 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030223739,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:37:42 扫码/scan
+2022-10-30 22:37:42 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030223742000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:37:42 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:37:42 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030223743,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:37:45 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:37:45 Save to: MOTORSRSMT0001_20221030223731.txt
+2022-10-30 22:37:52 TO MES:UNIT_RESULT,EMR3MSRS,1,20221030223751000,<UnitResult tokens="4" uid_in="MOTORSRSMT0001" result="P" info="test" />
+2022-10-30 22:37:52 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:37:52 From MES:b'\x02UNIT_RESULT,EMR3MSRS,1,20221030223753,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:37:52 MOTORSRSMT0001操作完成/process finished
+2022-10-30 22:39:43 打开串口/open serial:COM4,9600
+2022-10-30 22:40:05 打开串口/open serial:COM4,9600
+2022-10-30 22:40:28 打开串口/open serial:COM4,9600
+2022-10-30 22:42:30 打开串口/open serial:COM4,9600
+2022-10-30 22:43:05 扫码/scan
+2022-10-30 22:43:05 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030224305000,<UnitCheckin tokens="2" uid_in="E" />
+2022-10-30 22:43:05 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:43:05 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030224306,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:43:09 打开串口/open serial:COM4,9600
+2022-10-30 22:45:04 打开串口/open serial:COM4,9600
+2022-10-30 22:45:23 打开串口/open serial:COM4,9600
+2022-10-30 22:45:38 打开串口/open serial:COM4,9600
+2022-10-30 22:47:49 打开串口/open serial:COM4,9600
+2022-10-30 22:48:11 打开串口/open serial:COM4,9600
+2022-10-30 22:48:19 扫码/scan
+2022-10-30 22:48:19 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030224819000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:48:19 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:48:19 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030224820,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:48:22 扫码/scan
+2022-10-30 22:48:22 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030224822000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:48:22 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:48:22 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030224823,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:48:25 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:48:25 Save to: MOTORSRSMT0001_20221030224810.txt
+2022-10-30 22:48:34 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:48:34 Save to: MOTORSRSMT0001_20221030224810.txt
+2022-10-30 22:48:39 扫码/scan
+2022-10-30 22:48:39 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030224839000,<UnitCheckin tokens="2" uid_in="BUBUHUANHANG" />
+2022-10-30 22:48:39 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:48:39 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030224840,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:49:36 打开串口/open serial:COM4,9600
+2022-10-30 22:49:41 扫码/scan
+2022-10-30 22:49:41 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030224941000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:49:41 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:49:41 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030224942,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:49:44 扫码/scan
+2022-10-30 22:49:45 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030224944000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:49:45 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:49:45 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030224946,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:49:46 扫码/scan
+2022-10-30 22:49:46 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030224946000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:49:46 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:49:46 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030224947,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:49:55 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:49:55 Save to: MOTORSRSMT0001_20221030224936.txt
+2022-10-30 22:50:42 打开串口/open serial:COM4,9600
+2022-10-30 22:50:46 扫码/scan
+2022-10-30 22:50:46 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030225046000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:50:46 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:50:46 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030225047,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:50:47 扫码/scan
+2022-10-30 22:50:47 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030225047000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:50:48 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:50:48 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030225049,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:50:55 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:50:55 Save to: MOTORSRSMT0001_20221030225042.txt
+2022-10-30 22:51:00 TO MES:UNIT_RESULT,EMR3MSRS,1,20221030225100000,<UnitResult tokens="4" uid_in="MOTORSRSMT0001" result="P" info="test" />
+2022-10-30 22:51:00 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:51:00 MOTORSRSMT0001操作完成/process finished
+2022-10-30 22:51:00 From MES:b'\x02UNIT_RESULT,EMR3MSRS,1,20221030225101,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:51:08 扫码/scan
+2022-10-30 22:51:08 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030225108000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:51:08 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:51:08 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030225109,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:51:15 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:51:15 Save to: MOTORSRSMT0001_20221030225042.txt
+2022-10-30 22:51:17 TO MES:UNIT_RESULT,EMR3MSRS,2,20221030225117000,<UnitResult tokens="4" uid_in="MOTORSRSMT0001" result="F" info="\\10.192.97.84\F521_MES_record\]20221030\MOTORSRSMT0001_20221030225042.txt" />
+2022-10-30 22:51:17 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:51:17 MOTORSRSMT0001手动下线/manual fail
+2022-10-30 22:51:17 From MES:b'\x02UNIT_RESULT,EMR3MSRS,2,20221030225118,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:51:57 打开串口/open serial:COM4,9600
+2022-10-30 22:52:21 打开串口/open serial:COM4,9600
+2022-10-30 22:52:27 扫码/scan
+2022-10-30 22:52:27 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030225227000,<UnitCheckin tokens="2" uid_in="OTORSRSMT0001" />
+2022-10-30 22:52:28 From MES:b'\x00\x00\x00\x8b'
+2022-10-30 22:52:28 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030225229,ERROR,<Error tokens="4" ackrequired="true" text="WPM: wpm_GetSlotForUnit2A-39" failurecode="1" />\x03'
+2022-10-30 22:52:30 扫码/scan
+2022-10-30 22:52:30 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030225230000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:52:30 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:52:30 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030225231,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:52:35 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:52:35 Save to: MOTORSRSMT0001_20221030225221.txt
+2022-10-30 22:52:38 TO MES:UNIT_RESULT,EMR3MSRS,1,20221030225238000,<UnitResult tokens="4" uid_in="MOTORSRSMT0001" result="P" info="\\10.192.97.84\F521_MES_record\]20221030\MOTORSRSMT0001_20221030225221.txt" />
+2022-10-30 22:52:38 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:52:38 MOTORSRSMT0001操作完成/process finished
+2022-10-30 22:52:38 From MES:b'\x02UNIT_RESULT,EMR3MSRS,1,20221030225239,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
+2022-10-30 22:52:46 扫码/scan
+2022-10-30 22:52:46 TO MES:UNIT_CHECKIN,EMR3MSRSM,1,20221030225246000,<UnitCheckin tokens="2" uid_in="MOTORSRSMT0001" />
+2022-10-30 22:52:46 From MES:b'\x00\x00\x00\xb8'
+2022-10-30 22:52:46 From MES:b'\x02UNIT_CHECKIN,EMR3MSRSM,1,20221030225247,ACK,<UnitCheckin tokens="6" processdirective="Y" productline="EMR3MSRS 9008" uid_in="MOTORSRSMT0001" uid_type="MOTOR" mat_in="A2C7798490700"/>\x03'
+2022-10-30 22:52:55 From serial: http://www.cmsoft.cnMOTORSRSMTMOTORSRSMTfsdfsdf
+2022-10-30 22:52:55 Save to: MOTORSRSMT0001_20221030225221.txt
+2022-10-30 22:52:55 TO MES:UNIT_RESULT,EMR3MSRS,2,20221030225255000,<UnitResult tokens="4" uid_in="MOTORSRSMT0001" result="F" info="\\10.192.97.84\F521_MES_record\]20221030\MOTORSRSMT0001_20221030225221.txt" />
+2022-10-30 22:52:56 From MES:b'\x00\x00\x00\xa3'
+2022-10-30 22:52:56 MOTORSRSMT0001手动下线/manual fail
+2022-10-30 22:52:56 From MES:b'\x02UNIT_RESULT,EMR3MSRS,2,20221030225257,ERROR,<Error tokens="4" ackrequired="true" text="Object reference not set to an instance of an object." failurecode="NA" />\x03'
